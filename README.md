@@ -15,3 +15,5 @@ After download it you need to import the project as Maven Project and the API wi
 
 if you decide to use only the command line, just use the following command line:
 mvn spring-boot:run
+
+For more information, I included in the repository a power point that has all implementation like a flow. The archive name is Atividades Teste Brasilprev.pptx
